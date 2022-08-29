@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 def is_positive(n):
-    return n > 0
+    pass
 
 def positive_list(L):
-    return list(filter(is_positive,L))
+    pass
 
 def main():
     pass
